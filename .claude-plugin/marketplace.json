@@ -1,0 +1,12 @@
+{
+  "name": "grow8",
+  "description": "grow8 growth map for AI agents",
+  "owner": { "name": "grow8" },
+  "plugins": [
+    {
+      "name": "grow8",
+      "source": "./",
+      "description": "Plan and track how a product gets its first customers with grow8: the grow8 skill and the grow8 MCP server."
+    }
+  ]
+}
