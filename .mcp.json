@@ -2,10 +2,7 @@
   "mcpServers": {
     "grow8": {
       "type": "http",
-      "url": "https://grow8.app/api/mcp",
-      "headers": {
-        "Authorization": "Bearer ${GROW8_API_KEY}"
-      }
+      "url": "https://grow8.app/api/mcp"
     }
   }
 }
