@@ -1,0 +1,20 @@
+{
+  "name": "grow8",
+  "version": "0.2.0",
+  "description": "Plan and track how a product gets its first customers with grow8: the grow8 skill and the grow8 MCP server.",
+  "author": { "name": "grow8", "url": "https://grow8.app" },
+  "homepage": "https://grow8.app",
+  "repository": "https://github.com/grow8-app/skills",
+  "license": "MIT",
+  "keywords": ["grow8", "growth", "go-to-market", "marketing", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "grow8",
+    "shortDescription": "Growth map for your first customers",
+    "category": "Productivity",
+    "defaultPrompt": [
+      "Read my grow8 growth map and suggest the next move"
+    ]
+  }
+}

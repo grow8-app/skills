@@ -1,7 +1,7 @@
 {
   "name": "grow8",
   "description": "Plan and track how a product gets its first customers with grow8: the grow8 skill and the grow8 MCP server.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": { "name": "grow8" },
   "homepage": "https://grow8.app",
   "repository": "https://github.com/grow8-app/skills",
