@@ -37,7 +37,7 @@ Full instructions for agents: https://grow8.app/agent-setup.md
 
 ## Prices
 
-Reads are free. `create_map` costs 20 credits. A change that applies costs 1 credit per batch; a preview and a revert are free. Search beyond the daily quota costs 1 credit. Details at https://grow8.app/pricing.
+`create_map` costs 20 credits. A change that applies costs 1 credit per batch; a preview and a revert are free. `find_similar_products`, `search_cases` and `get_case` are free up to a daily quota by plan (Free 50, Pro 200, Studio 500), then 1 credit each. Other reads are free. Details at https://grow8.app/pricing.
 
 ## License
 
