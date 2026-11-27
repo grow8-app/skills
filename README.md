@@ -41,4 +41,4 @@ Full instructions for agents: https://grow8.app/agent-setup.md
 
 ## License
 
-MIT
+MIT covers the code in this repo. grow8 cases and data you get through it are covered by the [Terms of use](https://grow8.app/terms).
